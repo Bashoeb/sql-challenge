@@ -22,13 +22,13 @@ Data Analysis
 
 In this section, we were tasked with writing SQL queries to address specific questions:
 
-1. Retrieve the employee number, last name, first name, sex, and salary of each employee.
-2. Obtain the first name, last name, and hire date for employees hired in 1986.
-3. Identify the manager of each department along with their department number, department name, employee number, last name, and first name.
-4. List the department number for each employee alongside their employee number, last name, first name, and department name.
-5. Find the first name, last name, and sex of employees with the first name "Hercules" and whose last name starts with the letter "B."
-6. List all employees in the Sales department, including their employee number, last name, and first name.
-7. Include in the list all employees in the Sales and Development departments, providing their employee number, last name, first name, and department name.
-8. Calculate and list the frequency counts, in descending order, of all the employee last names (i.e., the number of employees sharing each last name).
+1. List the employee number, last name, first name, sex, and salary of each employee.
+2. List the first name, last name, and hire date for the employees who were hired in 1986.
+3. List the manager of each department along with their department number, department name, employee number, last name, and first name.
+4. List the department number for each employee along with that employee’s employee number, last name, first name, and department name.
+5. List the first name, last name, and sex of each employee whose first name is Hercules and whose last name begins with the letter B.
+6. List each employee in the Sales department, including their employee number, last name, and first name.
+7. List each employee in the Sales and Development departments, including their employee number, last name, first name, and department name.
+8. List the frequency counts, in descending order, of all the employee last names (that is, how many employees share each last name).
    
 The SQL script for the data analysis phase can be located in the "DataAnalysis.sql" file within the EmployeeSQL folder.
