@@ -1,4 +1,4 @@
-#SQL Challenge - Pewlett Hackard Employee Database
+SQL Challenge - Pewlett Hackard Employee Database
 
 Prerequisites
 
